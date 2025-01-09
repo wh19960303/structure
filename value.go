@@ -1,10 +1,10 @@
 package structure
 
 import (
+	"github.com/wh19960303/structure/constant"
 	"reflect"
 	"slices"
 	"strings"
-	"wh.com/structure/constant"
 )
 
 // GetStructIndex 确保传入的 查找 类型为结构体
