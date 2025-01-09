@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"slices"
 	"strings"
-	"structure/constant"
+	"wh.com/structure/constant"
 )
 
 // GetStructIndex 确保传入的 查找 类型为结构体
